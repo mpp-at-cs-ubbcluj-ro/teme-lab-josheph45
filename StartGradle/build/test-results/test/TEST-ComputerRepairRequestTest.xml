@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerRepairRequestTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-10T11:07:55" hostname="IOSIF" time="0.034">
+  <properties/>
+  <testcase name="Test Owner Address Getter and Setter" classname="ComputerRepairRequestTest" time="0.015"/>
+  <testcase name="Test ID Getter and Setter" classname="ComputerRepairRequestTest" time="0.0"/>
+  <testcase name="Test Phone Number Getter and Setter" classname="ComputerRepairRequestTest" time="0.001"/>
+  <testcase name="Test Parameterized Constructor" classname="ComputerRepairRequestTest" time="0.001"/>
+  <testcase name="Test ToString Method" classname="ComputerRepairRequestTest" time="0.008"/>
+  <testcase name="Test Owner Name Getter and Setter" classname="ComputerRepairRequestTest" time="0.001"/>
+  <testcase name="Test Problem Description Getter and Setter" classname="ComputerRepairRequestTest" time="0.001"/>
+  <testcase name="Test Date Getter and Setter" classname="ComputerRepairRequestTest" time="0.0"/>
+  <testcase name="Test Model Getter and Setter" classname="ComputerRepairRequestTest" time="0.0"/>
+  <testcase name="Test Default Constructor" classname="ComputerRepairRequestTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
