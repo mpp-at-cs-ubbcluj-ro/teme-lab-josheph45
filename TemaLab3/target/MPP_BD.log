@@ -1,0 +1,18 @@
+10 Mar 2025 13:41:12,787 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/kappa/OneDrive/Desktop/mpp/cars.db} 
+10 Mar 2025 13:41:12,797 TRACE ro.mpp2025.CarsDBRepository 55 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:41:12,798 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:41:12,798 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:41:12,798 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/kappa/OneDrive/Desktop/mpp/cars.db
+10 Mar 2025 13:41:12,799 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:41:12,799 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:41:13,099 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3fb1549b)
+10 Mar 2025 13:41:13,105 ERROR ro.mpp2025.CarsDBRepository 65 add - org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: cars.id)
+10 Mar 2025 13:41:13,106 TRACE ro.mpp2025.CarsDBRepository 68 add - Exit
+10 Mar 2025 13:41:13,106 TRACE ro.mpp2025.CarsDBRepository 78 findAll - Enter
+10 Mar 2025 13:41:13,107 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:41:13,107 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3fb1549b)
+10 Mar 2025 13:41:13,111 TRACE ro.mpp2025.CarsDBRepository 97 findAll - Exit with([Id=0 Tesla Model S 2019, Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020])
+10 Mar 2025 13:41:13,111 TRACE ro.mpp2025.CarsDBRepository 26 findByManufacturer - Enter finding cars with manufacturer Tesla
+10 Mar 2025 13:41:13,111 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:41:13,112 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3fb1549b)
+10 Mar 2025 13:41:13,112 TRACE ro.mpp2025.CarsDBRepository 43 findByManufacturer - Exit with([])

@@ -1,0 +1,140 @@
+10 Mar 2025 12:45:41,716 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:45:41,730 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:45:41,731 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 12:45:41,731 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:45:41,731 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:45:41,731 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 12:45:41,731 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 12:45:41,733 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:45:41,734 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 12:49:20,822 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:49:20,832 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:49:20,832 TRACE ro.mpp2025.JdbcUtils 50 getConnection - Enter
+10 Mar 2025 12:49:20,832 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:49:20,833 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:49:20,833 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 12:49:20,833 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 12:49:20,834 ERROR ro.mpp2025.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:49:20,835 TRACE ro.mpp2025.JdbcUtils 59 getConnection - Exit
+10 Mar 2025 12:49:42,610 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:49:42,620 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:49:42,620 TRACE ro.mpp2025.JdbcUtils 50 getConnection - Enter
+10 Mar 2025 12:49:42,620 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:49:42,621 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:49:42,621 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 12:49:42,621 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 12:49:42,622 ERROR ro.mpp2025.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:49:42,623 TRACE ro.mpp2025.JdbcUtils 59 getConnection - Exit
+10 Mar 2025 12:50:47,842 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:50:47,851 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:50:47,851 TRACE ro.mpp2025.JdbcUtils 50 getConnection - Enter
+10 Mar 2025 12:50:47,851 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:50:47,852 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:50:47,852 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 12:50:47,852 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 12:50:47,853 ERROR ro.mpp2025.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:50:47,854 TRACE ro.mpp2025.JdbcUtils 59 getConnection - Exit
+10 Mar 2025 12:51:29,586 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:51:29,595 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:51:29,596 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 12:51:29,596 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:51:29,597 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:51:29,597 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 12:51:29,597 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 12:51:29,603 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:51:29,605 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 12:54:04,227 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:54:04,242 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:54:04,243 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 12:54:04,243 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:54:04,243 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:54:04,244 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 12:54:04,244 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 12:54:04,245 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:54:04,246 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 12:57:45,462 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 12:57:45,478 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 12:57:45,478 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 12:57:45,478 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 12:57:45,479 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 12:57:45,479 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 12:57:45,479 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 12:57:45,480 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 12:57:45,481 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:00:13,311 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:00:13,320 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:00:13,320 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:00:13,320 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:00:13,321 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:00:13,321 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:00:13,322 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:00:13,323 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:00:13,323 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:01:17,627 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:01:17,636 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:01:17,636 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:01:17,636 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:01:17,637 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:01:17,637 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:01:17,637 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:01:17,638 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:01:17,638 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:02:25,736 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:02:25,745 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:02:25,746 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:02:25,746 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:02:25,746 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:02:25,747 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:02:25,747 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:02:25,748 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:02:25,748 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:03:04,381 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {year=integer, (=,    � �                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           cars=, )=,    � �                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         �[##�}tablecars_dg_tmpcars_dg_tmpCREATE=TABLE cars_dg_tmp, manufacturer=varchar(20) not null,, SQLite=format 3   @     	                                                               	 .v�, constraint=cars_pk, model=varchar(20) not null,, id=integer,    � ��                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           SkodaOctavia� DaciaSandero�=, primary=key autoincrement,} 
+10 Mar 2025 13:03:04,392 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:03:04,393 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:03:04,393 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:03:04,393 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:03:04,394 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:03:04,394 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:03:04,395 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:03:04,396 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:08:04,490 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:08:04,504 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:08:04,505 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:08:04,505 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:08:04,506 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:08:04,506 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:08:04,506 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:08:04,508 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:08:04,508 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:22:43,850 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:22:43,864 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:22:43,864 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:22:43,864 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:22:43,864 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:22:43,864 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:22:43,864 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:22:43,864 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:22:43,864 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:37:00,465 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 13:37:00,473 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:37:00,473 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:37:00,473 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:37:00,473 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... null
+10 Mar 2025 13:37:00,473 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:37:00,473 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:37:00,482 ERROR ro.mpp2025.JdbcUtils 44 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 13:37:00,482 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit
+10 Mar 2025 13:38:00,686 INFO  ro.mpp2025.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/kappa/OneDrive/Desktop/mpp/cars.db} 
+10 Mar 2025 13:38:00,693 TRACE ro.mpp2025.CarsDBRepository 38 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 13:38:00,693 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:38:00,693 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 13:38:00,693 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/kappa/OneDrive/Desktop/mpp/cars.db
+10 Mar 2025 13:38:00,702 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - user: null
+10 Mar 2025 13:38:00,702 INFO  ro.mpp2025.JdbcUtils 33 getNewConnection - pass: null
+10 Mar 2025 13:38:01,171 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7ea9e1e2)
+10 Mar 2025 13:38:01,188 TRACE ro.mpp2025.CarsDBRepository 46 add - Saved 1 instances
+10 Mar 2025 13:38:01,188 TRACE ro.mpp2025.CarsDBRepository 51 add - Exit
+10 Mar 2025 13:38:01,188 TRACE ro.mpp2025.CarsDBRepository 61 findAll - Enter
+10 Mar 2025 13:38:01,188 TRACE ro.mpp2025.JdbcUtils 51 getConnection - Enter
+10 Mar 2025 13:38:01,188 TRACE ro.mpp2025.JdbcUtils 60 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7ea9e1e2)
+10 Mar 2025 13:38:01,196 TRACE ro.mpp2025.CarsDBRepository 80 findAll - Exit with([Id=0 Tesla Model S 2019, Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020])
